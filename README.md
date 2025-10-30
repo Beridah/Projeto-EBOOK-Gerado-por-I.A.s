@@ -1,4 +1,4 @@
-# E-book Conceitual: “Santander Incluir — O Valor de Ouvir com os Olhos”
+# E-book projeto: “Santander Incluir — O Valor de Ouvir com os Olhos”
 ℹ️ NOTE: Este repositório foi criado durante meu curso na plataforma DIO, sob mentoria técnica, como parte de um desafio de desenvolvimento de um eBook digital com ferramentas de Inteligência Artificial.
 
 O propósito deste projeto é demonstrar como insights digitais podem se transformar em narrativas humanas, relevantes e acessíveis, dentro do conceito Santander Incluir — um movimento que conecta tecnologia, empatia e diversidade.
@@ -10,6 +10,15 @@ O propósito deste projeto é demonstrar como insights digitais podem se transfo
 O eBook propõe que o Santander Incluir vá além da empatia e da acessibilidade.
 
 É um convite para que a marca se posicione como símbolo de acolhimento, conexão e estilo, promovendo experiências digitais e humanas que fortalecem o relacionamento com os clientes — unindo propósito e inovação.
+
+## ❤️ Propósito e Impacto
+
+O Santander Incluir representa a união entre empatia, tecnologia e propósito.
+É um lembrete de que o futuro não é apenas digital — é humano.
+
+“O mundo não precisa de mais ruído.
+Precisa de mais olhares que se escutam.”
+
 
 ## 🧩  Tecnologias e Ferramentas Utilizadas:
 
@@ -39,7 +48,6 @@ ChatGPT：
 | conteúdo | Crie um eBook conceitual com o título “Santander Incluir — O Valor de Ouvir com os Olhos”, destinado a inspirar sobre inclusão, acessibilidade e conexão humana no mundo digital. O eBook deve combinar emoção, tecnologia e propósito, destacando a importância da visão surda e da empatia visual como forças transformadoras para marcas e pessoas. O estilo deve ser institucional, poético e humano — com frases curtas, exemplos reais e trechos que conectem tecnologia, inovação e inclusão.|
 
 
-
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
@@ -58,7 +66,12 @@ Midjourney：
 - Imagens utilizadas em `assets`
 - Ebook gerado durante as aulas em `output`
 
+## 👩‍💻 Autoria
 
----
+Projeto desenvolvido por Bianca, aluna da plataforma DIO, com mentoria técnica durante o curso.
+Inspirado pela missão de tornar o digital mais acessível e inclusivo para a comunidade surda.
 
-⌨️ com carinho por Bianca Sousa
+📅 Ano: 2025
+📍 Projeto Educacional | Santander Incluir
+
+
