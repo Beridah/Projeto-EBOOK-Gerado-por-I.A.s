@@ -61,11 +61,6 @@ Midjourney：
 - Imagens geradas via MidJourney
 - Imagens via Google
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- Ebook gerado durante as aulas em `output`
-
 ## 👩‍💻 Autoria
 
 Projeto desenvolvido por Bianca, aluna da plataforma DIO, com mentoria técnica durante o curso.
