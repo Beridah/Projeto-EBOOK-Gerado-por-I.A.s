@@ -11,15 +11,6 @@ O eBook propõe que o Santander Incluir vá além da empatia e da acessibilidade
 
 É um convite para que a marca se posicione como símbolo de acolhimento, conexão e estilo, promovendo experiências digitais e humanas que fortalecem o relacionamento com os clientes — unindo propósito e inovação.
 
-## ❤️ Propósito e Impacto
-
-O Santander Incluir representa a união entre empatia, tecnologia e propósito.
-É um lembrete de que o futuro não é apenas digital — é humano.
-
-“O mundo não precisa de mais ruído.
-Precisa de mais olhares que se escutam.”
-
-
 ## 🧩  Tecnologias e Ferramentas Utilizadas:
 
 ✨ Ferramentas de IA para escrita, design e estrutura narrativa:
@@ -61,12 +52,25 @@ Midjourney：
 - Imagens geradas via MidJourney
 - Imagens via Google
 
-## 👩‍💻 Autoria
+## ❤️ Propósito e Impacto
+
+O Santander Incluir representa a união entre empatia, tecnologia e propósito.
+É um lembrete de que o futuro não é apenas digital — é humano.
+
+“O mundo não precisa de mais ruído.
+Precisa de mais olhares que se escutam.”
+
+Vem ser Santander Incluir e ser inclusiva conosco! 
+
+Que o Santander seja mais inclusivo e acolhedor! 
 
 Projeto desenvolvido por Bianca, aluna da plataforma DIO, com mentoria técnica durante o curso.
 Inspirado pela missão de tornar o digital mais acessível e inclusivo para a comunidade surda.
 
 📅 Ano: 2025
+
 📍 Projeto Educacional | Santander Incluir
+
+[Vamos nos conectar e ser inclusiva? Venha para Linkedin e me conheça!](https://www.linkedin.com/in/biancasousa-pcd/)
 
 
