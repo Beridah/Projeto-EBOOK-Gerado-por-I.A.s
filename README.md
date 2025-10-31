@@ -1,5 +1,5 @@
 # E-book projeto: “Santander Incluir — O Valor de Ouvir com os Olhos”
-ℹ️ NOTE: Este repositório foi criado durante meu curso na plataforma DIO, sob mentoria técnica, como parte de um desafio de desenvolvimento de um eBook digital com ferramentas de Inteligência Artificial.
+ℹ️ NOTE: Participei como aluna de um curso na plataforma DIO para desenvolver este projeto como parte de um desafio de criação de eBook digital com ferramentas de Inteligencia Artificial.
 
 O propósito deste projeto é demonstrar como insights digitais podem se transformar em narrativas humanas, relevantes e acessíveis, dentro do conceito Santander Incluir — um movimento que conecta tecnologia, empatia e diversidade.
 
